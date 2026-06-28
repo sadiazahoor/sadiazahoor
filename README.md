@@ -8,7 +8,7 @@
 
 🚀 I enjoy building real-world projects, solving coding challenges, and exploring modern technologies to create innovative solutions.
 
-🎯 My goal is to become a skilled **Software Engineer & AI Engineer**, contribute to open-source projects, and build technology that makes a difference.
+🎯 My goal is to become a skilled **Software Engineer & Web Developer**, contribute to open-source projects, and build technology that makes a difference.
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
